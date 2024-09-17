@@ -1,0 +1,9 @@
+Version: 4
+Name: Dkon
+Description: Dalam Kontak - a social network through which you can share interesting news, images and videos with your friends and all the people..
+License: Apache-2.0
+SourceCode: https://github.com/DkonApp/Android-Social-Network-Messenger
+IssueTracker: https://dkon.app/DkontakApk
+APK: https://arsip.dkon.app/dkon/v4/app-4.apk
+UpdateCheck: https://dkon.app/dev/last_version/dkon.apk
+Maintainer: Aan Sari <aangsarist@gmail.com
