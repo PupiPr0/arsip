@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "lite.DKon.app",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 1,
+      "versionName": "VР В Р’В±Р вЂ™Р’В»Р Р†Р вЂљРІвЂћвЂ“nh HР В Р’В±Р РЋРІР‚СњР В Р вЂ№ Long",
+      "outputFile": "app-release.apk"
+    }
+  ]
+}
